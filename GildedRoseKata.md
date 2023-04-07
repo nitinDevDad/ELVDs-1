@@ -1,4 +1,4 @@
-## Session#1 CLEAN CODE
+## Session#1 Clean Code
 
 ## Introduction
 
