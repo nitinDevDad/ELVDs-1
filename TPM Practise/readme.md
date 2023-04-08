@@ -40,10 +40,9 @@ Learn to Write Clean Code with Java. Get Hands-on with Code Examples involving 4
 - `MenuAccessTest`
 
 #### TDD
-- More details - [TDD Exercises](https://github.com/in28minutes/clean-code/blob/master/tdd.md)
 - Truncate A in first 2 positions of a String
 - Check if first two and last two characters in the string are the same.
-- Bowling Kata
+- Bowling Kata & [other Katas](https://kata-log.rocks/starter)
 
 ## Step By Step Details
 
